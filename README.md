@@ -88,3 +88,9 @@ https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
 * DxE
   * 인스타
   * 홈페이지
+
+## 비건 정보들
+
+* 비건 편의점 Wiki
+  * http://ko.veganism.wikidok.net/
+  * 
