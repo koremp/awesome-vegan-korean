@@ -78,16 +78,21 @@ https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
 ## 비건 인플루언서
 
 * 가히님
-  * 인스타
-  * 트위터
+  * 인스타 https://www.instagram.com/bevegan21/
+  * 트위터 https://twitter.com/bevegan21
+  * 블로그 https://bevegan21.tistory.com/
 * 베지닥터
-  * 인스타
+  * 인스타 https://www.instagram.com/vegedoctor_org/
+  * 링크트리 https://litt.ly/vegedoctor
 * 동물권 단체 카라
-  * 인스타
-  * 
+  * 인스타 https://www.instagram.com/animal_kara/
+  * 홈페이지 https://www.ekara.org/
+  * 이메일 info@ekara.org
 * DxE
-  * 인스타
-  * 홈페이지
+  * 인스타 https://www.instagram.com/dxekorea/
+  * 링크트리 https://linktr.ee/dxekorea
+  * 노션 페이지 https://atlantic-egret-d5a.notion.site/DxE-ebfff13c325844fda4492360977ae6e7
+  * 이메일 dxekorea@gmail.com
 
 ## 비건 정보들
 
