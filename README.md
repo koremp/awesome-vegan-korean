@@ -148,6 +148,10 @@
   * https://blog.naver.com/l0veit1fwemadeit/222552156303
 * 도담 도담 비건 지도
   * https://blog.naver.com/dodam1027/221552368368
+* 앱
+  * 채식한 
+  * 해피카우
+  * 비건로드
 
 ## 비건 생활 공유
 
