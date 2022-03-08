@@ -1,7 +1,7 @@
 # awesome-vegan-korean
 
 한국인의 비건 생활
-비건 관련 정보들을 모아놓았습니다. 비건 개발자들 파이팅...
+비건 관련 정보들을 모아놓았습니다. 풀 리퀘스트, 이슈 모두 환영합니다!
 
 ## 비건의 이유
 
@@ -12,9 +12,9 @@
 5. 트라우마
 6. 알레르기 등
 
-## 비건의 종류
+## 채식의 종류
 
-https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
+
 
 ## 비건이 아닌 것
 
@@ -24,21 +24,34 @@ https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
 * 식품을 구매하기 전, 성분표를 확인해보면 비건 여부를 일차적으로 확인할 수 있다. 
 * 과자의 경우 우유, 돼지고기, 소고기 등이 함유되어 먹을 수 있는 것들이 제한적이다. 
 * 일부 두유는 우유가 함유되기도 한다.
-* 유제품의 경우 치즈가 대표적이다.
+* 유제품의 경우 치즈, 빵, 마요네즈 등이 대표적이다.
 
-## 비건 음식들
+## 비건 제품을 파는 곳들
 
-주요 기업들 : 베지가든, 풀무원
+* 베지가든
+* 풀무원
+
+
 비건 페스타 등의 비건 행사
 
 ### 편의점에서 구할 수 있는 제품들
 
+* 공통
+  * 로투스
+  * 일반적인 팝콘
+  * 조미료
+    * 연두
+    * 미원
+  * 라면
+    * 정면
+    * 맛있는 라면 비건
+  * 
 * CU
   * 채식 참치마요 삼각김밥
   * 채식 참치마요 김밥
   * 채식 참치마요 유부초밥
 * GS25
-  * 떡볶이? 
+  * 비건 제품들
 
 ### 브랜드 카페
 
@@ -84,10 +97,15 @@ https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
 * 베지닥터
   * 인스타 https://www.instagram.com/vegedoctor_org/
   * 링크트리 https://litt.ly/vegedoctor
-* 동물권 단체 카라
+
+## 동물권 관련 단체
+
+* 동물권 행동 카라
   * 인스타 https://www.instagram.com/animal_kara/
   * 홈페이지 https://www.ekara.org/
   * 이메일 info@ekara.org
+* 동물권리장전
+  * 인스타 https://www.instagram.com/roses_law_korea/
 * DxE
   * 인스타 https://www.instagram.com/dxekorea/
   * 링크트리 https://linktr.ee/dxekorea
@@ -98,4 +116,5 @@ https://www.mkhealth.co.kr/news/articleView.html?idxno=52449
 
 * 비건 편의점 Wiki
   * http://ko.veganism.wikidok.net/
-  * 
+* 한국채식연합
+  * https://www.vege.or.kr/
