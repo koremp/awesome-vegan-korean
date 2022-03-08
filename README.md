@@ -107,6 +107,11 @@
 * 탕라마
   * 인스타 https://www.instagram.com/l0veit1fwemadeit/
   * 블로그 https://blog.naver.com/l0veit1fwemadeit/
+* 도담도담
+  * 인스타 https://www.instagram.com/dodam_dodam_green_edu/
+  * 블로그 https://blog.naver.com/dodam1027
+  * 링크트리 https://linktr.ee/dodam_dodam
+  * 메일 dodam1027@naver.com
 * 비거니즘 봇
   * 트위터 https://twitter.com/veganism_bot
 
@@ -141,7 +146,8 @@
   * https://www.vege.or.kr/
 * 부산 비건 지도
   * https://blog.naver.com/l0veit1fwemadeit/222552156303
-* 대전 비건 지도
+* 도담 도담 비건 지도
+  * https://blog.naver.com/dodam1027/221552368368
 
 ## 비건 생활 공유
 
