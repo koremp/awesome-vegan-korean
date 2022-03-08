@@ -95,7 +95,7 @@
 
 ## 비건 인플루언서 및 블로거
 
-* 가히님
+* 가히
   * 인스타 https://www.instagram.com/bevegan21/
   * 트위터 https://twitter.com/bevegan21
   * 블로그 https://bevegan21.tistory.com/
@@ -104,6 +104,9 @@
   * 링크트리 https://litt.ly/vegedoctor
 * 두부집사
   * 블로그 https://blog.naver.com/wkghdwkghd/
+* 탕라마
+  * 인스타 https://www.instagram.com/l0veit1fwemadeit/
+  * 블로그 https://blog.naver.com/l0veit1fwemadeit/
 * 비거니즘 봇
   * 트위터 https://twitter.com/veganism_bot
 
