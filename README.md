@@ -1,6 +1,7 @@
 # awesome-vegan-korean
 
 한국인의 비건 생활
+
 비건 관련 정보들을 모아놓았습니다. 풀 리퀘스트, 이슈 모두 환영합니다!
 
 ## 동물권 관련 단체
@@ -9,13 +10,13 @@
   * [인스타그램](https://www.instagram.com/animal_kara/)
   * [홈페이지](https://www.ekara.org/)
   * 이메일: <info@ekara.org>
-* 동물권리장전
-  * [인스타그램](https://www.instagram.com/roses_law_korea/)
 * DxE
   * [인스타그램](https://www.instagram.com/dxekorea/)
   * [링크트리](https://linktr.ee/dxekorea)
   * [노션 페이지](https://atlantic-egret-d5a.notion.site/DxE-ebfff13c325844fda4492360977ae6e7)
   * 이메일 <dxekorea@gmail.com>
+* 동물권단체 케어
+  * [홈페이지](https://fromcare.org/)
 
 ## 비건 식당 및 관련 정보들
 
@@ -32,7 +33,7 @@
 
 * 부산 비건 지도
   * [인스타그램](https://www.instagram.com/busan_vegan_map/)
-  * [탕라마님 네이버 블로그의 글](https://blog.naver.com/l0veit1fwemadeit/222552156303)
+  * [공식 부산 비건 지도 공지글](https://blog.naver.com/l0veit1fwemadeit/222552156303)
 
 ## 비건 제품 쇼핑몰
 
@@ -60,6 +61,7 @@
 * [채식평화연대](https://vegpeace.imweb.me/)
 * [Vegan Club (영어)](https://veganclub.co/)
 * [비건 편의점 Wiki](http://ko.veganism.wikidok.net/)
+* [reddit /r/Vegan/](https://www.reddit.com/r/vegan/)
 
 ### 카페
 
