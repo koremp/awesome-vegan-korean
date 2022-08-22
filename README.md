@@ -24,6 +24,10 @@
 * 동물권단체 케어
   * [홈페이지](https://fromcare.org/)
 
+## 비건 정보 
+
+* [비건 편의점 Wiki](http://ko.veganism.wikidok.net/)
+* [비거니즘 공부 github io 사이트](https://veganstudies.github.io/)
 
 ## 커뮤니티
 
@@ -32,8 +36,6 @@
 * [한국 채식 연합](https://www.vege.or.kr/)
 * [채식평화연대](https://vegpeace.imweb.me/)
 * [한국비건인증원](http://vegan-korea.com/)
-* [비건 편의점 Wiki](http://ko.veganism.wikidok.net/)
-* [비거니즘 공부 github io 사이트](https://veganstudies.github.io/)
 * [Vegan Club (영어)](https://veganclub.co/)
 * [reddit /r/Vegan/](https://www.reddit.com/r/vegan/)
 
@@ -56,6 +58,8 @@
 * 비건로드
   * [Google Play](https://play.google.com/store/apps/details?id=jomelong.veganroad)
   * [App Store](https://apple.co/2s3DyOx)
+* 비니티
+  * [링크트리](https://linktr.ee/Vinity_official)
 
 ## 비건 식당 및 관련 정보들
 
