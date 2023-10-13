@@ -66,6 +66,7 @@
 ## 비건 식당 및 관련 정보들
 
 * [비거니즘 지형도 (오픈 맵), 구글](https://www.google.com/maps/d/viewer?mid=1Xk83sBun2GBnN_qrAriBx2vQTrQggpr-&hl=ko&usp=sharing)
+* [도담도담님의 카카오맵 즐겨찾기 목록](https://map.kakao.com/?map_type=TYPE_MAP&folderid=498197&target=other&page=bookmark)
 
 ### 서울
 
