@@ -15,12 +15,6 @@
   * [링크트리](https://linktr.ee/dxekorea)
   * [노션 페이지](https://atlantic-egret-d5a.notion.site/DxE-ebfff13c325844fda4492360977ae6e7)
   * 이메일 <dxekorea@gmail.com>
-* 피스어스 - 대전 에코페미니즘 커뮤니티
-  * [인스타그램](https://instagram.com/peac.e_e.arth)
-  * [링크트리](https://linktr.ee/peace.earth)
-  * [노션](https://peaceearth2022.notion.site/fdac93486e7d43b18dfe60cddccbf)
-  * 이메일 <peace.earth2022@gmail.com>
-
 * 동물권단체 케어
   * [홈페이지](https://fromcare.org/)
 
