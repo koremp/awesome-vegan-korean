@@ -60,6 +60,8 @@
   * [App Store](https://apple.co/2s3DyOx)
 * 비니티
   * [링크트리](https://linktr.ee/Vinity_official)
+* 어비로
+  * [App Store](https://apple.co/3LYInhO)
 
 ## 비건 식당 및 관련 정보들
 
